@@ -1,7 +1,6 @@
 // and.cpp -- using the logical AND operator
 #include <iostream>
 const int ArSize = 6;
-
 int main()
 {
     using namespace std;
